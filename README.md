@@ -2,7 +2,7 @@
 [download git](https://linktodocumentation)  
 [ Git Configuration](https://linktodocumentation)  
 [Git Initialization](https://linktodocumentation)  
-[.bash_profile](https://linktodocumentation)
+[.bash_profile](https://github.com/sumitcv/mangit/blob/main/README.md#bash_profile)
 
 ## Download Git
 Download got from below URL for windows- 
