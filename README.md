@@ -1,5 +1,5 @@
 ## Documentation
-[Git Download](https://github.com/sumitcv/mangit/edit/main/README.md#git-download)  
+[Git Download](https://github.com/sumitcv/mangit/blob/main/README.md#git-download)  
 [Git Configuration](https://github.com/sumitcv/mangit/blob/main/README.md#Git-configuration)  
 [Git Initialization](https://github.com/sumitcv/mangit/blob/main/README.md#git-initialization)  
 [.bash_profile](https://github.com/sumitcv/mangit/blob/main/README.md#bash_profile)
