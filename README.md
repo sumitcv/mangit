@@ -1,7 +1,7 @@
 ## Documentation
-[download git](https://linktodocumentation)  
-[ Git Configuration](https://linktodocumentation)  
-[Git Initialization](https://linktodocumentation)  
+[download git](https://github.com/sumitcv/mangit/blob/main/README.md#Download Git)  
+[ Git Configuration](https://github.com/sumitcv/mangit/blob/main/README.md#Git Configuration )  
+[Git Initialization](https://github.com/sumitcv/mangit/blob/main/README.md#git initialization)  
 [.bash_profile](https://github.com/sumitcv/mangit/blob/main/README.md#bash_profile)
 
 ## Download Git
